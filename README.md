@@ -10,7 +10,7 @@ A containerized machine learning application for recommending anime titles based
 - Custom exception handling and logging
 - Easily extensible and configurable
 
-## Project Structure
+## Project Structure   
 
 ```
 .
