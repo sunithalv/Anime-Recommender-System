@@ -1,6 +1,6 @@
 # Anime Recommender
 
-A LLM application for recommending anime titles based on user preferences. Built with Python, Streamlit, and supports deployment via Docker.
+LLM based application for recommending anime titles based on user preferences. Built with Python, Streamlit, and supports deployment via Docker.
 
 ## Features
 
